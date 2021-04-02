@@ -1,0 +1,3 @@
+[submodule "InheritanceDemo"]
+	path = InheritanceDemo
+	url = git@github.com:dwilliams328/InheritanceDemo.git
