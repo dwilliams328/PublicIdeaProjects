@@ -1,3 +1,6 @@
 [submodule "InheritanceDemo"]
 	path = InheritanceDemo
 	url = git@github.com:dwilliams328/InheritanceDemo.git
+[submodule "LinkedListsExamples"]
+	path = LinkedListsExamples
+	url = git@github.com:dwilliams328/LinkedListsExamples.git
